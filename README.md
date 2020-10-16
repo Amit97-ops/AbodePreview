@@ -6,4 +6,4 @@ and view credit reports/applications of potential tenants through the site. Rent
 and will implement features allowing tenants to put in maintenace requests through the service and allow a communication
 channel between tenants and landlords. Below you will find some features of the application so far
 
-![RentHub Demo](AbodePreview/blob/main/demo.gif)
+![RentHub Demo](demo.gif)
